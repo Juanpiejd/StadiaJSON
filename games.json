@@ -420,5 +420,20 @@
     "cgdbId": "",
     "sku": "31047b9e82bb4a30ba66b24bef71cdf2",
     "gameId": "4884bd9bd7864cf28deef05ef4b69e70rcp1"
+  },
+  "Zombie Army 4: Dead War": {
+    "aliases": [
+      "zombiearmy4deadwar",
+      "zombiearmy4",
+      "zombiearmy",
+      "za4",
+      "za4dw"
+    ],
+    "img": "https://zombiearmy.com/images/logo/zombie-army.png",
+    "gameTypes": [],
+    "hasIcon": true,
+    "cgdbId": "",
+    "sku": "a7b1581491ea4b7c9fcc89710561f5f7",
+    "gameId": "cba537cccfe3470b8784f88660ea5f09rcp1"
   }
 }
